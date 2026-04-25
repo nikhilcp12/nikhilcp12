@@ -1,24 +1,144 @@
-<h1 align="center">Hi 👋, I'm Nikhil CP</h1>
-<h3 align="center">A passionate Security Researcher & Bug Bounty Hunter from India</h3>
+# Hi 👋, I'm Nikhil CP
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilcp12&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilcp12" /> </p>
+### Security Researcher | Bug Bounty Hunter | Aspiring Pentester
 
-- 🔭 I’m currently working on **Web Application Security Testing**
+---
 
-- 🌱 I’m currently learning **Advanced Web Application Exploitation & API Penetration Testing**
+## 🚀 Overview
 
-- 👯 I’m looking to collaborate on **Security research projects**
+Focused on **Web, API, Mobile, and Cloud Security** with a strong emphasis on real-world exploitation, offensive security methodology, and bug bounty research.
 
-- 💬 Ask me about **Bug Bounty Methodology**
+🐞 5+ valid vulnerabilities reported
+🎯 Preparing for CPTS (Penetration Testing Specialist)
 
-- 📫 How to reach me **cpnikhil52@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhilcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilcp" height="30" width="40" /></a>
+## 🧠 Core Security Skills
+
+### 🌐 Web & API Security
+
+* OWASP Top 10 exploitation
+* Strong REST & GraphQL API security testing
+* Authentication & authorization bypass
+* Business logic attacks
+* Web application penetration testing workflow
+
+### 📱 Mobile Security
+
+* Android application security testing (learning & hands-on)
+* Static & dynamic analysis
+* APK reverse engineering fundamentals
+* Traffic interception & SSL pinning bypass
+
+### ☁️ Cloud Security (Exploring)
+
+* AWS / Azure / GCP security fundamentals (learning)
+* IAM misconfigurations
+* Cloud privilege escalation paths
+* Misconfiguration-based exploitation
+
+---
+
+## 🧪 Offensive Security Methodology
+
+* Reconnaissance & attack surface mapping
+* Manual testing over automated scanning
+* Endpoint analysis & parameter manipulation
+* Exploit chaining & logic abuse discovery
+* Reporting with clear PoC and impact
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Security Tools
 
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
+* Burp Suite
+* Nmap
+* OpenVAS
+* Nessus
+* Frida
+* Objection
+* JADX
+
+---
+
+## 🏆 Highlights
+
+* 🐞 5+ valid bug bounty reports
+* 🧩 Strong hands-on web security practice
+* 🔥 Active offensive security learner
+* 🎯 Focused on real-world exploitation skills
+* 🧠 Improving secure code review skills for AppSec roles
+
+---
+
+## 📚 Currently Learning
+
+* Advanced web exploitation techniques
+* API security testing at scale
+* Android reverse engineering & exploitation
+* Cloud misconfiguration attacks
+* Privilege escalation (Linux & Windows)
+
+---
+
+## 🏅 Profiles
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/NikhilCP)
+
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge)](https://app.hackthebox.com/public/users/2168448)
+
+---
+
+## 🐞 Bug Bounty Impact
+
+* 🛍️ Shopify: Accepted and rewarded security report
+* 🐞 Bugcrowd: 5 valid reported vulnerabilities (accepted)
+
+---
+
+## 🐞 Bug Bounty Profiles
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge)](https://hackerone.com/nik_27)
+
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-orange?style=for-the-badge)](https://bugcrowd.com/h/nik_hacks)
+
+---
+
+## 📊 Profile Stats
+
+### 🏅 TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/NikhilCP.png" alt="TryHackMe Badge" />
+
+### 🏅 Hack The Box
+
+<img src="https://www.hackthebox.com/badge/image/2168448" alt="Hack The Box Badge" />
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: [https://linkedin.com/in/nikhilcp](https://linkedin.com/in/nikhilcp)
+* Email: [cpnikhil52@gmail.com](mailto:cpnikhil52@gmail.com)
+
+---
+
+⚡ Focused on real-world exploitation, breaking systems ethically, and building strong offensive security intuition.
