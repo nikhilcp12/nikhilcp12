@@ -9,6 +9,7 @@
 Focused on **Web, API, Mobile, and Cloud Security** with a strong emphasis on real-world exploitation, offensive security methodology, and bug bounty research.
 
 🐞 5+ valid vulnerabilities reported
+
 🎯 Preparing for CPTS (Penetration Testing Specialist)
 
 ---
