@@ -119,7 +119,7 @@ Focused on **Web, API, Mobile, and Cloud Security** with a strong emphasis on re
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge)](https://hackerone.com/nik_27)
 
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-orange?style=for-the-badge)](https://bugcrowd.com/h/nik_hacks)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-orange?style=for-the-badge)](https://bugcrowd.com/h/0xnikvx)
 
 ---
 
